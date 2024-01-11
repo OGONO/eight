@@ -76,12 +76,12 @@ const Cart = () => {
           <div className="cart-bottom">
             <div className="total">
               <h3>Subtotal:</h3>
-              <h3>KES {totalPrice}</h3>
+              <h3> {totalPrice}</h3>
             </div>
              <div></div>
             <div className="btn-container">
               <button type="button" className="btn" >
-                LIPA NA MPESA
+               
               </button>
             </div>
             <div><p> </p>
