@@ -84,7 +84,7 @@ const Cart = () => {
                 LIPA NA MPESA
               </button>
             </div>
-            <div><p> WE ARE CURRENTLY EXPERIENCING TECHNICALITIES USING THE MPESA API AND WE WILL SORT IT OUT SOON. REACH US ON CALL OR WHATSAPP ON +254703101328 TO PLACE YOUR ORDER</p>
+            <div><p> </p>
 </div>
           </div> 
              
